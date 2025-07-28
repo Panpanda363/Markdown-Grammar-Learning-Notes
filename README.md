@@ -1,7 +1,3 @@
 # Markdown Grammar Learning Notes
 Here are my personal notes from learning Markdown on my own
-111
-
-1111
-
 
